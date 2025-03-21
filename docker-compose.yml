@@ -1,5 +1,3 @@
-version: "3"  # version指定は最近は省略する流れもあるが一例で
-
 services:
   db:
     image: mysql:8
